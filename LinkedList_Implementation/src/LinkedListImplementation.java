@@ -86,6 +86,7 @@ public class LinkedListImplementation {
 		list.insert(2);
 		list.insert(25);
 		list.insert(27);
+		list.insert(26);
 		list.show();
 		System.out.println("after editing start position");
 		list.insertatstart(1);
